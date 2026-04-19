@@ -7,7 +7,7 @@ const jokes = [
   { setup: 'How do you organize a space party?', punchline: 'You planet.' },
   { setup: "Why don't scientists trust atoms?", punchline: 'Because they make up everything!' },
   { setup: 'What did the ocean say to the beach?', punchline: 'Nothing, it just waved.' },
-  { setup: 'How many programmers does it take to change a light bulb?', punchline: 'None — that's a hardware problem.' },
+  { setup: 'How many programmers does it take to change a light bulb?', punchline: 'None - that is a hardware problem.' },
   { setup: 'Why was the math book sad?', punchline: 'It had too many problems.' },
   { setup: 'What do you call a fish without eyes?', punchline: 'A fsh!' },
   { setup: "I'm reading a book about anti-gravity.", punchline: "It's impossible to put down!" },
